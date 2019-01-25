@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Astate</title>
+    <link>https://astate.github.io/tags/</link>
+    <description>Recent content in Tags on Astate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>astate@protonmail.com (Astate)</managingEditor>
+    <webMaster>astate@protonmail.com (Astate)</webMaster>
+    <lastBuildDate>Fri, 25 Jan 2019 10:18:03 -0500</lastBuildDate>
+    
+	<atom:link href="https://astate.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Content</title>
+      <link>https://astate.github.io/tags/content/</link>
+      <pubDate>Fri, 25 Jan 2019 10:18:03 -0500</pubDate>
+      <author>astate@protonmail.com (Astate)</author>
+      <guid>https://astate.github.io/tags/content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://astate.github.io/tags/github/</link>
+      <pubDate>Wed, 23 Jan 2019 21:09:16 -0500</pubDate>
+      <author>astate@protonmail.com (Astate)</author>
+      <guid>https://astate.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://astate.github.io/tags/hugo/</link>
+      <pubDate>Fri, 25 Jan 2019 10:18:03 -0500</pubDate>
+      <author>astate@protonmail.com (Astate)</author>
+      <guid>https://astate.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Makdown</title>
+      <link>https://astate.github.io/tags/makdown/</link>
+      <pubDate>Fri, 25 Jan 2019 10:18:03 -0500</pubDate>
+      <author>astate@protonmail.com (Astate)</author>
+      <guid>https://astate.github.io/tags/makdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Site</title>
+      <link>https://astate.github.io/tags/static-site/</link>
+      <pubDate>Fri, 25 Jan 2019 10:18:03 -0500</pubDate>
+      <author>astate@protonmail.com (Astate)</author>
+      <guid>https://astate.github.io/tags/static-site/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
