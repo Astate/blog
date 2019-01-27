@@ -10,7 +10,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 #pygmentsUseClassic = true
 #pygmentOptions = "linenos=inline"
-disqusShortname = "astate"
+disqusShortname = "astate-github-io"
 #googleAnalytics = "XXX"
 
 [Params]
