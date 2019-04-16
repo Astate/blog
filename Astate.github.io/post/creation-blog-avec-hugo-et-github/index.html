@@ -108,7 +108,7 @@ Cette page est très inspiré de https://vaibhavk.">
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Astate" />
 
-  <meta name="generator" content="Hugo 0.53" />
+  <meta name="generator" content="Hugo 0.54.0" />
   <link rel="alternate" href="https://astate.github.io/index.xml" type="application/rss+xml" title="Astate">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
@@ -493,6 +493,20 @@ Maintenant que vous êtes dans votre <strong>Blog&rsquo;s repository</strong>. V
 
       
         
+          
+          <div class="disqus-comments">                  
+            <button id="show-comments" class="btn btn-default" type="button">Afficher <span class="disqus-comment-count" data-disqus-url="https://astate.github.io/post/creation-blog-avec-hugo-et-github">commentaires</span></button>
+            <div id="disqus_thread"></div>
+
+            <script type="text/javascript">
+              var disqus_config = function () {
+              this.page.url = 'https:\/\/astate.github.io\/post\/creation-blog-avec-hugo-et-github';
+            };
+
+          </script>
+          </div>
+          
+        
         
       
 
@@ -577,6 +591,28 @@ Maintenant que vous êtes dans votre <strong>Blog&rsquo;s repository</strong>. V
 
 
 
+
+
+
+<script type="text/javascript">
+$(function(){
+  $('#show-comments').on('click', function(){
+    var disqus_shortname = 'astate-github-io';
+      
+    (function() {
+      var disqus = document.createElement('script'); 
+      disqus.type = 'text/javascript'; 
+      disqus.async = true;
+      disqus.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(disqus);
+    })();
+      
+    $(this).hide(); 
+    });
+  });
+      
+</script>
+<script id="dsq-count-scr" src="//astate-github-io.disqus.com/count.js" async></script>
 
 
 
