@@ -32,7 +32,7 @@ Markdown **génial** parce que:
 Les balises < pre > et < code > sont ajouter lorsque que le début des lignes sont indenté d'au moins quatre espaces. 
 J'ai utilisé cette astuce pour afficher le code ci-dessous.
 
-{{< highlight htlm >}}
+{{< highlight html >}}
     Markdown : 
     # Titre
     ## Titre

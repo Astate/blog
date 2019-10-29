@@ -1,5 +1,5 @@
 ---
-title: "Remettre Le Stock Rom Avec Heimdall"
+title: "Comment remettre le stock rom avec Heimdall"
 date: 2019-04-15T18:44:34-04:00
 tags: [linux,android,heimdall]
 draft: false
