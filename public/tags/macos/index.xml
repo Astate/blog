@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>macos on Astate</title>
+    <link>https://astate.github.io/tags/macos/</link>
+    <description>Recent content in macos on Astate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>astate@protonmail.com (Astate)</managingEditor>
+    <webMaster>astate@protonmail.com (Astate)</webMaster>
+    <lastBuildDate>Wed, 09 Oct 2019 19:34:37 -0400</lastBuildDate><atom:link href="https://astate.github.io/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backup reséau TimeMachine avec serveur Samba</title>
+      <link>https://astate.github.io/post/backup-reseau-timemachine-avec-serveur-samba/</link>
+      <pubDate>Wed, 09 Oct 2019 19:34:37 -0400</pubDate>
+      <author>astate@protonmail.com (Astate)</author>
+      <guid>https://astate.github.io/post/backup-reseau-timemachine-avec-serveur-samba/</guid>
+      <description>Mon garçon utilise un portable Mac pour son apprentissage à l’école. Il passe souvent de très longues heures à travailler sur différent projet à l’aide de celui-ci. Ça serait triste de perdre un travail à cause d’une défaillance informatique ou d’une erreur humaine. J’ai fait plusieurs recherches sur le web pour trouver une façon de faire fonctionner Timemachine sur le réseau via un serveur Linux. Presque tous les articles que j’ai trouvés utilisent le protocole propriétaire de Apple AFP (Apple Filling Protocol).</description>
+    </item>
+    
+  </channel>
+</rss>

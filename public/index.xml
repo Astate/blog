@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astate</title>
+    <link>https://astate.github.io/</link>
+    <description>Recent content on Astate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>astate@protonmail.com (Astate)</managingEditor>
+    <webMaster>astate@protonmail.com (Astate)</webMaster>
+    <lastBuildDate>Wed, 09 Oct 2019 19:34:37 -0400</lastBuildDate><atom:link href="https://astate.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Backup reséau TimeMachine avec serveur Samba</title>
+      <link>https://astate.github.io/post/backup-reseau-timemachine-avec-serveur-samba/</link>
+      <pubDate>Wed, 09 Oct 2019 19:34:37 -0400</pubDate>
+      <author>astate@protonmail.com (Astate)</author>
+      <guid>https://astate.github.io/post/backup-reseau-timemachine-avec-serveur-samba/</guid>
+      <description>Mon garçon utilise un portable Mac pour son apprentissage à l’école. Il passe souvent de très longues heures à travailler sur différent projet à l’aide de celui-ci. Ça serait triste de perdre un travail à cause d’une défaillance informatique ou d’une erreur humaine. J’ai fait plusieurs recherches sur le web pour trouver une façon de faire fonctionner Timemachine sur le réseau via un serveur Linux. Presque tous les articles que j’ai trouvés utilisent le protocole propriétaire de Apple AFP (Apple Filling Protocol).</description>
+    </item>
+    
+    <item>
+      <title>Comment remettre le stock rom avec Heimdall</title>
+      <link>https://astate.github.io/post/remettre-le-stock-rom-avec-heimdall/</link>
+      <pubDate>Mon, 15 Apr 2019 18:44:34 -0400</pubDate>
+      <author>astate@protonmail.com (Astate)</author>
+      <guid>https://astate.github.io/post/remettre-le-stock-rom-avec-heimdall/</guid>
+      <description>Télécharger le stock firmware de Samsung Vous trouverez le firmware à partir du site sammobile.com. Le téléchargement prends quelques heures, alors commancez tout de suite pendant le temps que vous préparer Heimdall.
+Installer heimdall Il est possible de télécharger la version Os X, Windows et Linux directement sur leur site internet https://glassechidna.com.au/heimdall/. Si vous avez comme moi, une distribution linux utilsant AUR (Archlinux/Manjaro) vous n&amp;rsquo;avez tout simplement qu&amp;rsquo;à l&amp;rsquo;installer yay.</description>
+    </item>
+    
+    <item>
+      <title>Decouverte De Markdown</title>
+      <link>https://astate.github.io/post/decouverte-de-markdown/</link>
+      <pubDate>Fri, 25 Jan 2019 10:18:03 -0500</pubDate>
+      <author>astate@protonmail.com (Astate)</author>
+      <guid>https://astate.github.io/post/decouverte-de-markdown/</guid>
+      <description>Markdown est un langage de balisage léger créé par John Gruber et Aaron Swartz. Son but est de fournir une syntaxe facile à lire et à écrire. En plus d&amp;rsquo;être facile, c&amp;rsquo;est très rapide. Lorsqu&amp;rsquo;on écrit avec Markdown, nous ne devons pas se donner l&amp;rsquo;impression qu&amp;rsquo;il a été marqué par des balises ou des instructions de formatage. Ça devrait être naturel.
+Un avantage majeur de Markdown est de ne pas avoir à vous soucier de la forme.</description>
+    </item>
+    
+    <item>
+      <title>Astate</title>
+      <link>https://astate.github.io/apropos/</link>
+      <pubDate>Fri, 25 Jan 2019 10:09:39 -0500</pubDate>
+      <author>astate@protonmail.com (Astate)</author>
+      <guid>https://astate.github.io/apropos/</guid>
+      <description>Ma profession est system programmer. Dans une organisation informatique mainframe, le programmeur système (system programmer) joue un rôle central. Le programmeur système installe, personnalise et entretient le système d&amp;rsquo;exploitation, mais également installe ou met à niveau les produits exécutés sur le système.
+Voici quelques logiciels que j&amp;rsquo;utlise à tout les jours:
+ Z/os Omvs Rexx CICS Db2 Idms  Depuis plus de 15 ans j&amp;rsquo;utilise Gnu/linux,BSD par passion. Que ce soit pour l&amp;rsquo;hébergement internet, la navigation sur internet, la programmation python ou bien le traitement video j&amp;rsquo;utilise des applications OpenSource.</description>
+    </item>
+    
+    <item>
+      <title>Création d&#39;un blog avec hugo et github</title>
+      <link>https://astate.github.io/post/creation-blog-avec-hugo-et-github/</link>
+      <pubDate>Wed, 23 Jan 2019 21:09:16 -0500</pubDate>
+      <author>astate@protonmail.com (Astate)</author>
+      <guid>https://astate.github.io/post/creation-blog-avec-hugo-et-github/</guid>
+      <description>J&amp;rsquo;ai construit ce blog en utilisant Github pages, Hugo le theme beautifulhugo. La partie la plus étonnante est qu’il est gratuit, minimaliste, utilise Markdown et qu’il peut être exécuté en un rien de temps! De plus, Hugo est livré avec Live-Reload activé afin que vous puissiez voir simultanément les modifications que vous apportez sur votre site Web.
+Voici un court tutoriel sur la création de ce blog. Commençons!
+Cette page est très inspiré de [https://vaibhavk.</description>
+    </item>
+    
+  </channel>
+</rss>

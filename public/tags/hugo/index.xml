@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on Astate</title>
+    <link>https://astate.github.io/tags/hugo/</link>
+    <description>Recent content in hugo on Astate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>astate@protonmail.com (Astate)</managingEditor>
+    <webMaster>astate@protonmail.com (Astate)</webMaster>
+    <lastBuildDate>Fri, 25 Jan 2019 10:18:03 -0500</lastBuildDate><atom:link href="https://astate.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Decouverte De Markdown</title>
+      <link>https://astate.github.io/post/decouverte-de-markdown/</link>
+      <pubDate>Fri, 25 Jan 2019 10:18:03 -0500</pubDate>
+      <author>astate@protonmail.com (Astate)</author>
+      <guid>https://astate.github.io/post/decouverte-de-markdown/</guid>
+      <description>Markdown est un langage de balisage léger créé par John Gruber et Aaron Swartz. Son but est de fournir une syntaxe facile à lire et à écrire. En plus d&amp;rsquo;être facile, c&amp;rsquo;est très rapide. Lorsqu&amp;rsquo;on écrit avec Markdown, nous ne devons pas se donner l&amp;rsquo;impression qu&amp;rsquo;il a été marqué par des balises ou des instructions de formatage. Ça devrait être naturel.
+Un avantage majeur de Markdown est de ne pas avoir à vous soucier de la forme.</description>
+    </item>
+    
+    <item>
+      <title>Création d&#39;un blog avec hugo et github</title>
+      <link>https://astate.github.io/post/creation-blog-avec-hugo-et-github/</link>
+      <pubDate>Wed, 23 Jan 2019 21:09:16 -0500</pubDate>
+      <author>astate@protonmail.com (Astate)</author>
+      <guid>https://astate.github.io/post/creation-blog-avec-hugo-et-github/</guid>
+      <description>J&amp;rsquo;ai construit ce blog en utilisant Github pages, Hugo le theme beautifulhugo. La partie la plus étonnante est qu’il est gratuit, minimaliste, utilise Markdown et qu’il peut être exécuté en un rien de temps! De plus, Hugo est livré avec Live-Reload activé afin que vous puissiez voir simultanément les modifications que vous apportez sur votre site Web.
+Voici un court tutoriel sur la création de ce blog. Commençons!
+Cette page est très inspiré de [https://vaibhavk.</description>
+    </item>
+    
+  </channel>
+</rss>
